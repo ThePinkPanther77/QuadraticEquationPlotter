@@ -3,7 +3,9 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 y=list()
+print('Enter the parameters:')
 a,b,c=map(int,input().split())
+print('Enter the minimum and maximum values of x (respectively):')
 minn,maxx=map(int,input().split())
 x=np.linspace(minn,maxx)
 for i in x:

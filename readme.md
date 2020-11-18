@@ -1,4 +1,4 @@
-# Graphing Calculator
+# Quadratic Equation Plotter
 >A program that plots a quadratic equation
 ## Table of Contents
 * [General info](#general-info)

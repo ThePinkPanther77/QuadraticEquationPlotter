@@ -14,7 +14,7 @@ class Graph:
         self.maxx=maxx
 
     def creator(self):
-        '''A method that creates the graph and adjust the axis. '''
+        '''A method that creates the graph and adjust the axis.'''
         x=np.linspace(self.minn,self.maxx)
         for i in x:
             y.append((self.a*i*i)+(self.b*i)+self.c)
@@ -29,7 +29,7 @@ class Graph:
         plt.show()
 
 def main():
-    '''A function the initializes the calss (Graph).'''
+    '''A function that initializes the calss (Graph).'''
     print('Enter the parameters:')
     a,b,c=map(int,input().split())
     print('Enter the minimum and maximum values of x (respectively):')

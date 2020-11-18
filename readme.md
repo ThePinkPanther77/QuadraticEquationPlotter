@@ -1,5 +1,5 @@
 # Graphing Calculator
-A program that plot a second degree function
+A program that plots a second degree function
 ## Table of Contents
 * [General info](#general-info)
 * [Technologies](#technologies)

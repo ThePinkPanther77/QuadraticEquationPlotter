@@ -29,7 +29,7 @@ class Graph:
         plt.show()
 
 def main():
-    '''A function the initializes the Graph calss.'''
+    '''A function the initializes the calss (Graph).'''
     print('Enter the parameters:')
     a,b,c=map(int,input().split())
     print('Enter the minimum and maximum values of x (respectively):')

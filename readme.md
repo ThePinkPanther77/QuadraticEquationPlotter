@@ -9,6 +9,6 @@ A program that plot a second degree function
 A simple python project that can calculate the graph of a second degree equation
 
 # Technologies
-Python - version 3
+Python - version 3.8
 # Setup
 To start this program just simply run the code from a python IDE or from the Command Prompt

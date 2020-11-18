@@ -7,8 +7,7 @@
 
 ## General info
 A simple python project that plots a quadratic equation
-h
 # Technologies
 Python - version 3.8
 # Setup
-To start this program just simply run the code using a python IDE or the Command Prompt
+To start this program just simply download the zip file from Github and run the file: code.py

@@ -1,5 +1,5 @@
 # Graphing Calculator
-A program that plots a quadratic equation
+>A program that plots a quadratic equation
 ## Table of Contents
 * [General info](#general-info)
 * [Technologies](#technologies)

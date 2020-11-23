@@ -10,4 +10,4 @@ A simple python project that plots a quadratic equation
 ## Technologies
 Python - version 3.8
 ## Setup
-To start this program download the zip file from Github and run the file: code.py
+Download the file then run `code.py` from the command line.

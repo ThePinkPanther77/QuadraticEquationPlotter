@@ -40,7 +40,8 @@ def main(event=None):
     p.creator()
 
 
-root =Tk(className="Quadratic Equation Plotter")
+root =Tk()
+root.title("Quadratic Equation Plotter")
 icon = PhotoImage(file = 'Quadratic Equation Plotter.gif')
 root.iconphoto(False, icon) 
 

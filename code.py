@@ -8,8 +8,8 @@ class Graph:
     def __init__(self,root):
         self.root=root
         root.title("Quadratic Equation Plotter")
-        icon = PhotoImage(file = 'Quadratic Equation Plotter.gif')
-        root.iconphoto(False, icon) 
+        #icon = PhotoImage(file = 'Quadratic Equation Plotter.gif')
+        #root.iconphoto(False, icon) 
 
         self.label1=Label(root,text="Enter the first parameter:")
         self.box1=Entry(root,width=50)
